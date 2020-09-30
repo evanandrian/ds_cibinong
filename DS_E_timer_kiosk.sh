@@ -8,4 +8,4 @@ done
 git pull
 "E:\ds_cibinong\DesktopService.exe" $1 &
 
-start chrome http://192.168.5.6:2222/kiosk
+start chrome http://10.122.250.12/kiosk

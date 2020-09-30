@@ -8,5 +8,5 @@ done
 git pull
 "E:\ds_cibinong\DesktopService.exe" $1 &
 
-start chrome http://transmedic.co.id:5555/app/Login
+start chrome http://10.122.250.12/app/Login
 
